@@ -1,5 +1,5 @@
 # Site_Reliability_Engineering_-SRE-_Foundation
-SRE
+https://sre.google/workbook/table-of-contents/
 ## What You'll Learn
 * SRE Principles and Practices
 * Service Level Objectives and Error Budgets
