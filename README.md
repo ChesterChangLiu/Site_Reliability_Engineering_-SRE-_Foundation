@@ -1,4 +1,4 @@
-# Site_Reliability_Engineering_-SRE-_Foundation
+# Site_Reliability_Engineering_SRE_Foundation
 https://sre.google/workbook/table-of-contents/
 ## What You'll Learn
 * SRE Principles and Practices
